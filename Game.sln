@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comm", "Comm\Comm.csproj", "{5D5EEF62-77CF-4D4C-B00F-5613E73F20EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WXGame", "WXGame\WXGame.csproj", "{6A8C4CE2-9146-4CA8-A1F7-6E803E13FAF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5EEF62-77CF-4D4C-B00F-5613E73F20EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5EEF62-77CF-4D4C-B00F-5613E73F20EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5EEF62-77CF-4D4C-B00F-5613E73F20EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5EEF62-77CF-4D4C-B00F-5613E73F20EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8C4CE2-9146-4CA8-A1F7-6E803E13FAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8C4CE2-9146-4CA8-A1F7-6E803E13FAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8C4CE2-9146-4CA8-A1F7-6E803E13FAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8C4CE2-9146-4CA8-A1F7-6E803E13FAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D913C3E5-B3AD-4128-8F26-96FCCE065DBF}
+	EndGlobalSection
+EndGlobal
